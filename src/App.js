@@ -10,7 +10,7 @@ function App() {
         <h1>
           Git practice
         </h1>
-        <section><h3>Section 1</h3></section>
+        <section><h3>Aaron Russell Section</h3></section>
         <section><h3>Section 2</h3></section>
       <footer style={{background: 'red'}}><h2>This is the footer of the page</h2></footer>
       <footer><h2>This is the new footer</h2></footer>
