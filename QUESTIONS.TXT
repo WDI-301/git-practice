@@ -1,32 +1,47 @@
 What is Git?
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 What is the difference between Git and Github?
+Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories
 
 What does it mean to commit changes in Git?
+an individual change to a file (or set of files).
 
 What does `staging` mean in Git?
+to prepare it finely for a commit
 
 What does the `git add` command do?
+adds a change in the working directory to the staging area.
 
 What does the `git commit` command do?
+captures a snapshot of the project's currently staged changes.
 
 What is a `commit` in git?
+the core building block units of a Git project timeline
 
 What are git branches?
+branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes.
 
 How do we create a new branch?
+git branch new_branch_name
 
 How can we switch between branches?
+git checkout branch_name
 
 What is 'merging' in Git?
+Git's way of putting a forked history back together again
 
 What does it mean to 'rebase' in Git?
+the process of moving or combining a sequence of commits to a new base commit.
 
 What is a git remote repository?
+Git repository that's hosted on the Internet or another network.
 
 How do we pull the latest changes from a remote repository into our local machine?
+git pull remote_name branch_name
 
 How to push our changes to the remote repository?
+git push -u remote_name branch_name
 
 What is a merge request and why are they useful?
-
+a regular review moment to check if your teammates still have the same standards and values about testing, quality and code style.
